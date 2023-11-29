@@ -1,0 +1,7 @@
+/* @theme my-theme */
+
+@import "default";
+
+* {
+  font-family: "Courier New", Courier, monospace;
+}
